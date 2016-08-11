@@ -4,3 +4,6 @@
 
 ### August 9, 2016
 - [Ultimate Gravitational Waves Demo - YouTube](https://www.youtube.com/watch?v=dw7U3BYMs4U) 
+
+### August 11, 2016
+- [Dr. Robert Zubrin with a brilliant answer to "Why Should We Go To Mars?" - YouTube](https://www.youtube.com/watch?v=j2Mu8qfVb5I) 
