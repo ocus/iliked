@@ -7,3 +7,4 @@
 
 ### August 11, 2016
 - [Dr. Robert Zubrin with a brilliant answer to "Why Should We Go To Mars?" - YouTube](https://www.youtube.com/watch?v=j2Mu8qfVb5I) 
+- [zserge/partcl: ParTcl - a micro Tcl implementation](https://github.com/zserge/partcl) 
