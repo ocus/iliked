@@ -7,3 +7,4 @@
 
 ### August 11, 2016
 - [Dr. Robert Zubrin with a brilliant answer to "Why Should We Go To Mars?" - YouTube](https://www.youtube.com/watch?v=j2Mu8qfVb5I) 
+- [Dr. Robert Zubrin with a brilliant answer to "Why Should We Go To Mars?" - YouTube](https://www.youtube.com/watch?v=j2Mu8qfVb5I) 
