@@ -11,3 +11,6 @@
 
 ### August 13, 2016
 - [PyFormat: Using % and .format() for great good!](https://pyformat.info/) 
+
+### August 17, 2016
+- [Best Practices for Building a Microservice Architecture | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture) 
