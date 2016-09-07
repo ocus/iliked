@@ -14,3 +14,6 @@
 
 ### August 17, 2016
 - [Best Practices for Building a Microservice Architecture | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture) 
+
+### September 7, 2016
+- [Farewell - ETAOIN SHRDLU - 1978 on Vimeo](https://vimeo.com/127605643) 
