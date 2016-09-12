@@ -17,3 +17,6 @@
 
 ### September 7, 2016
 - [Farewell - ETAOIN SHRDLU - 1978 on Vimeo](https://vimeo.com/127605643) 
+
+### September 12, 2016
+- [How It's Made: Quartz Used in Military Radio Communication - Vintage Technology Documentary - YouTube](https://www.youtube.com/watch?v=Iy23Us3nrX8) 
