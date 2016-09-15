@@ -20,3 +20,6 @@
 
 ### September 12, 2016
 - [How It's Made: Quartz Used in Military Radio Communication - Vintage Technology Documentary - YouTube](https://www.youtube.com/watch?v=Iy23Us3nrX8) 
+
+### September 16, 2016
+- [Knowledge Debt](http://amir.rachum.com/blog/2016/09/15/knowledge-debt/) 
