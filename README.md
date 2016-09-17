@@ -24,3 +24,6 @@
 ### September 16, 2016
 - [Knowledge Debt](http://amir.rachum.com/blog/2016/09/15/knowledge-debt/) 
 - [Douglas Crockford: The JSON Saga - YouTube](https://www.youtube.com/watch?v=-C-JoyNuQJs&index=3&list=WL) 
+
+### September 17, 2016
+- [THE CANDIDATE on Vimeo](https://vimeo.com/42934682) 
