@@ -27,3 +27,6 @@
 
 ### September 17, 2016
 - [THE CANDIDATE on Vimeo](https://vimeo.com/42934682) 
+
+### October 6, 2016
+- [Doug Stanhope - Remember When I Used To Give A Shit/Killer Closer - YouTube](https://www.youtube.com/watch?v=XCGkVyyDOcU) 
