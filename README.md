@@ -30,3 +30,6 @@
 
 ### October 6, 2016
 - [Doug Stanhope - Remember When I Used To Give A Shit/Killer Closer - YouTube](https://www.youtube.com/watch?v=XCGkVyyDOcU) 
+
+### November 22, 2016
+- [I heard imgur likes trippy photos. - Album on Imgur](https://imgur.com/gallery/shk7d) 
