@@ -33,3 +33,6 @@
 
 ### November 22, 2016
 - [I heard imgur likes trippy photos. - Album on Imgur](https://imgur.com/gallery/shk7d) 
+
+### December 29, 2016
+- [Simon Sinek on Millennials in the Workplace - YouTube](https://www.youtube.com/watch?v=hER0Qp6QJNU) 
