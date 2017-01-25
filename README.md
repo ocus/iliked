@@ -36,3 +36,6 @@
 
 ### December 29, 2016
 - [Simon Sinek on Millennials in the Workplace - YouTube](https://www.youtube.com/watch?v=hER0Qp6QJNU) 
+
+### January 25, 2017
+- [The Monad Fear - LINE Haskell Boot Camp](https://e.xtendo.org/monad#89) 
