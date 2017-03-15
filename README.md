@@ -39,3 +39,6 @@
 
 ### January 25, 2017
 - [The Monad Fear - LINE Haskell Boot Camp](https://e.xtendo.org/monad#89) 
+
+### March 15, 2017
+- [Everything | Gameplay Film | PS4 3.21 - YouTube](https://www.youtube.com/watch?v=HdJk8ROpuEo) 
